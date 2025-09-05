@@ -12,6 +12,8 @@ import { useEffect, useState } from "react";
 
 const PURCHASE_URL = "/comprar"
 
+// to deploy
+
 export default function HomePage() {
   const [isVisible, setIsVisible] = useState(false)
 
